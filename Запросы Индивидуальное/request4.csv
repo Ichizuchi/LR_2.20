@@ -1,0 +1,27 @@
+┌──────────────┬───────────────┐
+│ count(model) │     mark      │
+├──────────────┼───────────────┤
+│ 55           │ alfa-romeo    │
+│ 640          │ audi          │
+│ 669          │ bmw           │
+│ 40           │ chevrolet     │
+│ 150          │ citroen       │
+│ 356          │ fiat          │
+│ 841          │ ford          │
+│ 193          │ honda         │
+│ 444          │ hyundai       │
+│ 353          │ kia           │
+│ 562          │ mazda         │
+│ 784          │ mercedes-benz │
+│ 162          │ mini          │
+│ 141          │ mitsubishi    │
+│ 422          │ nissan        │
+│ 1005         │ opel          │
+│ 338          │ peugeot       │
+│ 690          │ renault       │
+│ 361          │ seat          │
+│ 1054         │ skoda         │
+│ 817          │ toyota        │
+│ 1090         │ volkswagen    │
+│ 410          │ volvo         │
+└──────────────┴───────────────┘
